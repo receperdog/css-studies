@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  color: bisque;
+  font-family: shizuru;
+}
+h1 {
+  color: aqua;
+  font-family: cursive;
+}
+li {
+  color: azure;
+  text-transform: uppercase;
+  font-family: cursive;
+}
